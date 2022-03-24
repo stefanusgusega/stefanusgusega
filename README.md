@@ -7,4 +7,5 @@ Python, Numpy, Tensorflow, Machine Learning, Deep Learning, Speech Processing, L
 ## Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=stefanusgusega&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- ![Metrics](/github-metrics.svg) -->
+## GitHub Metrics
+![Metrics](/github-metrics.svg)
