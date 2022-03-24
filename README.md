@@ -4,10 +4,6 @@ I'm Stefanus Gusega Gunawan, currently studying on Institut Teknologi Bandung as
 ## Skills and Interests
 Python, Numpy, Tensorflow, Machine Learning, Deep Learning, Speech Processing, Laravel, Data Science, Mathematics, Calculus
 
-## Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=stefanusgusega&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-## GitHub Metrics
+## More information
 ![Metrics](/github-metrics.svg)
-![Labels](/metrics.plugin.topics.svg)
-![Facts](/metrics.plugin.habits.facts.svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=stefanusgusega&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
