@@ -1,5 +1,5 @@
 ## 💬 Introduction
-I'm Stefanus Gusega Gunawan, currently studying on Institut Teknologi Bandung as an Informatics Engineering undergraduate student. I love machine learning and deep learning topics, and software engineering too.
+I'm Stefanus Gusega Gunawan, currently studying at Institut Teknologi Bandung as an Informatics Engineering undergraduate student. I love machine learning and deep learning topics, and software engineering too.
 
 ## 🌱 Skills and Interests
 Python, Numpy, TensorFlow, Machine Learning, Deep Learning, Speech Processing, Laravel, Data Science, Mathematics, Calculus
