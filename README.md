@@ -9,3 +9,5 @@ Python, Numpy, Tensorflow, Machine Learning, Deep Learning, Speech Processing, L
 
 ## GitHub Metrics
 ![Metrics](/github-metrics.svg)
+![Labels](/metrics.plugin.topics.svg)
+![Facts](/metrics.plugin.habits.facts.svg)
