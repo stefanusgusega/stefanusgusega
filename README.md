@@ -6,9 +6,21 @@ Python, Numpy, TensorFlow, Machine Learning, Deep Learning, Speech Processing, L
 
 ![Topics](/metrics.plugin.topics.svg)
 
-## 🏛️ Languages
-![Most used languages](/metrics.plugin.languages.svg)
+## 🏛️ Language Stats
+<table>
+    <tr>
+        <td valign="top"><img src="metrics.plugin.languages.indepth.svg"/></td>
+        <td valign="top"><img src="metrics.plugin.languages.recent.svg"/></td>
+    </tr>
+</table>
 
 ## 💁‍♂️ More Information
-![Metrics](/github-metrics.svg)
-[![trophy](https://github-profile-trophy.vercel.app/?username=stefanusgusega&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<table>
+    <tr>
+        <td valign="top"><img src="github-metrics.svg"/></td>
+        <td valign="top"><img src="metrics.plugin.habits.facts.svg"/></td>
+    </tr>
+    <tr>
+        <td valign="top" colspan=2><img src='https://github-profile-trophy.vercel.app/?username=stefanusgusega&theme=onedark'></td>
+    </tr>
+</table>
