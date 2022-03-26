@@ -17,7 +17,7 @@ Python, Numpy, TensorFlow, Machine Learning, Deep Learning, Speech Processing, L
 ## 💁‍♂️ More Information
 <table>
     <tr>
-        <td valign="top"><img src="github-metrics.svg"/></td>
+        <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=stefanusgusega&show_icons=true&theme=onedark&count_private=ttrue"/></td>
         <td valign="top"><img src="metrics.plugin.habits.facts.svg"/></td>
     </tr>
     <tr>
