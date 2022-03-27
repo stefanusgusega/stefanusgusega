@@ -25,6 +25,15 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Jakarta
+      - name: Labels
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.topics.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 12
+          user: stefanusgusega
       - name: Language
         uses: lowlighter/metrics@latest
         with:
@@ -40,15 +49,6 @@ jobs:
           plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_limit: 4
           plugin_languages_analysis_timeout: 15
-          user: stefanusgusega
-      - name: Labels
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.topics.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_topics: yes
-          plugin_topics_limit: 12
           user: stefanusgusega
       - name: Habits
         uses: lowlighter/metrics@latest
