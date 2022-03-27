@@ -18,7 +18,7 @@ Python, Numpy, TensorFlow, Machine Learning, Deep Learning, Speech Processing, L
             <img src="https://github-readme-stats.vercel.app/api?username=stefanusgusega&show_icons=true&theme=onedark&count_private=true"/>
         </td>
         <td valign="center">
-            <img src="metrics.plugin.habits.facts.svg"/>
+            <img src="metrics.plugin.habits.svg"/>
         </td>
     </tr>
     <tr>
