@@ -7,20 +7,23 @@ Python, Numpy, TensorFlow, Machine Learning, Deep Learning, Speech Processing, L
 ![Topics](/metrics.plugin.topics.svg)
 
 ## 🏛️ Language Stats
-<table>
-    <tr>
-        <td valign="top"><img src="metrics.plugin.languages.indepth.svg"/></td>
-        <td valign="top"><img src="metrics.plugin.languages.recent.svg"/></td>
-    </tr>
-</table>
+<div align="center">
+    <img text-align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanusgusega&hide=html,css,tex,less,dockerfile,makefile,qmake,lex,cmake,shell,nuplot&layout=compact&theme=onedark"></img>
+</div>
 
 ## 💁‍♂️ More Information
 <table>
     <tr>
-        <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=stefanusgusega&show_icons=true&theme=onedark&count_private=ttrue"/></td>
-        <td valign="top"><img src="metrics.plugin.habits.facts.svg"/></td>
+        <td valign="top">
+            <img src="https://github-readme-stats.vercel.app/api?username=stefanusgusega&show_icons=true&theme=onedark&count_private=true"/>
+        </td>
+        <td valign="center">
+            <img src="metrics.plugin.habits.facts.svg"/>
+        </td>
     </tr>
     <tr>
-        <td valign="top" colspan=2><img src='https://github-profile-trophy.vercel.app/?username=stefanusgusega&theme=onedark'></td>
+        <td valign="top" colspan=2>
+            <img src='https://github-profile-trophy.vercel.app/?username=stefanusgusega&theme=onedark'>
+        </td>
     </tr>
 </table>
