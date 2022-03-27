@@ -23,7 +23,7 @@ Python, Numpy, TensorFlow, Machine Learning, Deep Learning, Speech Processing, L
     </tr>
     <tr>
         <td valign="top" colspan=2>
-            <img src='https://github-profile-trophy.vercel.app/?username=stefanusgusega&theme=onedark'>
+            <img src='https://github-profile-trophy.vercel.app/?username=stefanusgusega&theme=onedark&count_private=true'>
         </td>
     </tr>
 </table>
