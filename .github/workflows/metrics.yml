@@ -39,6 +39,7 @@ jobs:
           plugin_languages_details: lines, bytes-size
           plugin_languages_limit: 4
           plugin_languages_analysis_timeout: 15
+          user: stefanusgusega
       - name: Labels
         uses: lowlighter/metrics@latest
         with:
@@ -47,6 +48,7 @@ jobs:
           base: ""
           plugin_topics: yes
           plugin_topics_limit: 12
+          user: stefanusgusega
       - name: Recently used
         uses: lowlighter/metrics@latest
         with:
@@ -60,6 +62,7 @@ jobs:
           plugin_languages_sections: recently-used
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 4
+          user: stefanusgusega
       - name: Midly interesting facts
         uses: lowlighter/metrics@latest
         with:
@@ -69,5 +72,6 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
+          user: stefanusgusega
           config_timezone: Asia/Jakarta
 
