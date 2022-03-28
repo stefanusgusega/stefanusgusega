@@ -8,7 +8,8 @@ Python, Numpy, TensorFlow, Machine Learning, Deep Learning, Speech Processing, L
 
 ## 🏛️ Language Stats
 <div align="center">
-    <img text-align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanusgusega&hide=html,css,tex,less,dockerfile,makefile,qmake,lex,cmake,shell,nuplot&layout=compact&theme=onedark"></img>
+<!--     <img text-align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanusgusega&hide=html,css,tex,less,dockerfile,makefile,qmake,lex,cmake,shell,nuplot&layout=compact&theme=onedark"></img> -->
+    <img text-align="center" src="metrics.plugin.languages.svg" />
 </div>
 
 ## 💁‍♂️ More Information
