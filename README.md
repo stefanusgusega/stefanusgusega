@@ -28,8 +28,13 @@ Python, Numpy, TensorFlow, Machine Learning, Deep Learning, Speech Processing, L
             <img src='https://github-profile-trophy.vercel.app/?username=stefanusgusega&theme=onedark&count_private=true'>
         </td>
     </tr>
+</table>
+<table>
     <tr>
-        <td valign="center" colspan=2>
+        <td valign="center">
+            <img src="github-metrics.svg"/>
+        </td>
+        <td valign="center">
             <img src="metrics.plugin.habits.svg"/>
         </td>
     </tr>
