@@ -50,7 +50,7 @@ jobs:
           plugin_languages_limit: 4
           plugin_languages_analysis_timeout: 15
           debug: yes
-          commits_authoring: Stefanus Gusega Gunawan, stefanusgusega, gunawanstefanus006@gmail.com, 13518149@std.stei.itb.ac.id
+          commits_authoring: stefanusgusega, gunawanstefanus006@gmail.com, 13518149@std.stei.itb.ac.id
       - name: Habits
         uses: lowlighter/metrics@latest
         with:
@@ -62,4 +62,4 @@ jobs:
           plugin_habits_charts: yes
           config_timezone: Asia/Jakarta
           debug: yes
-          commits_authoring: Stefanus Gusega Gunawan, stefanusgusega, gunawanstefanus006@gmail.com, 13518149@std.stei.itb.ac.id
+          commits_authoring: stefanusgusega, gunawanstefanus006@gmail.com, 13518149@std.stei.itb.ac.id
