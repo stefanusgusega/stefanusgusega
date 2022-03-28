@@ -48,7 +48,7 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_limit: 4
-          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout: 30
           debug: yes
           commits_authoring: stefanusgusega, gunawanstefanus006@gmail.com, 13518149@std.stei.itb.ac.id
       - name: Habits
