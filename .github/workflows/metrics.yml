@@ -50,6 +50,7 @@ jobs:
           plugin_languages_limit: 4
           plugin_languages_analysis_timeout: 15
           user: stefanusgusega
+          debug: yes
       - name: Habits
         uses: lowlighter/metrics@latest
         with:
