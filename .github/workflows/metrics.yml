@@ -34,10 +34,10 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 12
           user: stefanusgusega
-      - name: Language
+      - name: Indepth Language
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.languages.svg
+          filename: metrics.plugin.languages.indepth.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
@@ -45,10 +45,24 @@ jobs:
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
             gnuplot
           plugin_languages_indepth: yes
-          plugin_languages_sections: most-used, recently-used
           plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_limit: 4
-          plugin_languages_analysis_timeout: 30
+          debug: yes
+          commits_authoring: stefanusgusega, gunawanstefanus006@gmail.com, 13518149@std.stei.itb.ac.id
+      - name: Recently Used Language
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.languages.recent.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+            gnuplot
+          plugin_languages_indepth: yes
+          plugin_languages_details: lines, bytes-size, percentage
+          plugin_languages_limit: 4
+          plugin_languages_sections: recently-used
           debug: yes
           commits_authoring: stefanusgusega, gunawanstefanus006@gmail.com, 13518149@std.stei.itb.ac.id
       - name: Habits

@@ -7,24 +7,30 @@ Python, Numpy, TensorFlow, Machine Learning, Deep Learning, Speech Processing, L
 ![Topics](/metrics.plugin.topics.svg)
 
 ## 🏛️ Language Stats
-<div align="center">
-<!--     <img text-align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanusgusega&hide=html,css,tex,less,dockerfile,makefile,qmake,lex,cmake,shell,nuplot&layout=compact&theme=onedark"></img> -->
-    <img text-align="center" src="metrics.plugin.languages.svg" />
-</div>
+<table>
+    <tr>
+        <td>
+            <img text-align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanusgusega&hide=html,css,tex,less,dockerfile,makefile,qmake,lex,cmake,shell,nuplot&layout=compact&theme=onedark"/>
+        </td>
+        <td>
+            <img text-align="center" src="metrics.plugin.languages.recent.svg"/>
+        </td>
+    </tr>
+</table>
 
 ## 💁‍♂️ More Information
 <table>
     <tr>
-        <td valign="top">
+        <td valign="center">
             <img src="https://github-readme-stats.vercel.app/api?username=stefanusgusega&show_icons=true&theme=onedark&count_private=true"/>
         </td>
         <td valign="center">
-            <img src="metrics.plugin.habits.svg"/>
+            <img src='https://github-profile-trophy.vercel.app/?username=stefanusgusega&theme=onedark&count_private=true'>
         </td>
     </tr>
     <tr>
-        <td valign="top" colspan=2>
-            <img src='https://github-profile-trophy.vercel.app/?username=stefanusgusega&theme=onedark&count_private=true'>
+        <td valign="center" colspan=2>
+            <img src="metrics.plugin.habits.svg"/>
         </td>
     </tr>
 </table>
