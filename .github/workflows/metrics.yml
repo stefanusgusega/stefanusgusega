@@ -62,3 +62,4 @@ jobs:
           plugin_habits_charts: yes
           user: stefanusgusega
           config_timezone: Asia/Jakarta
+          debug: yes
