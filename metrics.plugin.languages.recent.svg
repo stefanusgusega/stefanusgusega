@@ -16,14 +16,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 33 edited files from 124 commits over last 14 days</small>
+                <small>estimation from 37 edited files from 130 commits over last 11 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="358.3572688334593" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="358.3572688334593" y="0" width="101.64273116654068" height="8" fill="#dd1100"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="409.3143198165656" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="409.3143198165656" y="0" width="50.68568018343437" height="8" fill="#dd1100"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -35,9 +35,9 @@
                                 Python
                             </div>
                             <small>
-                                <div>377 lines</div>
-                                <div>12.3 kB</div>
-                                <div>77.9%</div>
+                                <div>861 lines</div>
+                                <div>28.3 kB</div>
+                                <div>88.98%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -50,7 +50,7 @@
                             <small>
                                 <div>123 lines</div>
                                 <div>3.51 kB</div>
-                                <div>22.1%</div>
+                                <div>11.02%</div>
                             </small>
                         </div>
                     </section>
