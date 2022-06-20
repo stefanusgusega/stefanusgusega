@@ -16,31 +16,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 69.6kb of code in 63 edited files across 26 commits over last 4 days</small>
+                <small>estimation from 37kb of code in 77 edited files across 38 commits over last 5 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="377.7455301295252" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="377.7455301295252" y="0" width="62.06932388999019" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="439.8148540195154" y="0" width="20.185145980484613" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="319.95316159250586" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="319.95316159250586" y="0" width="84.22397274856291" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="404.1771343410688" y="0" width="55.82286565893123" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Jupyter Notebook
-                            </div>
-                            <small>
-                                <div>1.70k lines</div>
-                                <div>42.6 kB</div>
-                                <div>82.12%</div>
-                            </small>
-                        </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -49,9 +36,22 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>315 lines</div>
-                                <div>7.01 kB</div>
-                                <div>13.49%</div>
+                                <div>665 lines</div>
+                                <div>13 kB</div>
+                                <div>69.56%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Jupyter Notebook
+                            </div>
+                            <small>
+                                <div>137 lines</div>
+                                <div>3.44 kB</div>
+                                <div>18.31%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -64,7 +64,7 @@
                             <small>
                                 <div>69 lines</div>
                                 <div>2.28 kB</div>
-                                <div>4.39%</div>
+                                <div>12.14%</div>
                             </small>
                         </div>
                     </section>
