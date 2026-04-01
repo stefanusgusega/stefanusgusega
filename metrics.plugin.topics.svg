@@ -18,7 +18,7 @@
                         <div class="topics fill-width">
                             <div class="label" title="Python is a dynamically typed programming language.">python</div>
                             <div class="label" title="Machine learning is a way of modeling and interpreting data that allows a piece of software to respond intelligently.">machine learning</div>
-                            <div class="label" title="Deep Learning is an artificial neural network composed of many layers.">deep learning</div>
+                            <div class="label" title="Deep learning is a subset of machine learning that uses multi-layered neural networks to learn representations from data.">deep learning</div>
                             <div class="label" title="SQL is a standard language for storing, retrieving and manipulating data in databases.">sql</div>
                             <div class="label" title="Data visualization is the graphic representation of data and trends.">data visualization</div>
                             <div class="label" title="Django is a web application framework for Python.">django</div>
