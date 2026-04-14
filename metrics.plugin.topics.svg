@@ -21,8 +21,8 @@
                             <div class="label" title="Deep learning is a subset of machine learning that uses multi-layered neural networks to learn representations from data.">deep learning</div>
                             <div class="label" title="SQL is a standard language for storing, retrieving and manipulating data in databases.">sql</div>
                             <div class="label" title="Data visualization is the graphic representation of data and trends.">data visualization</div>
-                            <div class="label" title="Django is a web application framework for Python.">django</div>
                             <div class="label" title="Automate your code review with style, quality, security, and test‑coverage checks when you need them.">code quality</div>
+                            <div class="label" title="Django is a web application framework for Python.">django</div>
                             <div class="label" title="Ensure your code meets quality standards and ship with confidence.">code review</div>
                             <div class="label" title="Jupyter Notebooks are documents that contain live code, visualizations, and narrative text.">jupyter notebook</div>
                             <div class="label" title="The PHP Framework for Web Artisans.">laravel</div>
